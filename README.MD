@@ -1,4 +1,1 @@
-工作多年，经历过大大小小的系统无数个，并发从几百到几十万不等，遇到过各种各样的奇葩case，从中整理筛选了一些放在了上面，都是本人处理过的一些经典问题。
-大部分都是人祸，有os层面的，有jvm层面的，网络层面，线程，类加载，链接泄露等等等等。
-有问题欢迎和我交流：
-![avatar](./case/WechatIMG31.jpeg)
+I have worked for many years and experienced countless systems, from hundreds of thousands of systems, encountered all kinds of weird cases, sorted out and selected some of them and put them above. Most of them are human disasters, including OS level, JVM level, network level, threads, class loading, link leakage, etc.
